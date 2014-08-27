@@ -60,14 +60,14 @@
 
 /*==========  LEARNING  ==========*/
 .highlight-module--learning {
-  color: #ffffff;
+  color: $colorWhite;
 
   &::after {
     background-color: $colorLearning;
   }
 
   a {
-    color: #ffffff;
+    color: $colorWhite;
     text-decoration: underline;
   }
 }
@@ -75,14 +75,14 @@
 
 /*==========  REMEMBER  ==========*/
 .highlight-module--remember {
-  color: #ffffff;
+  color: $colorWhite;
 
   &::after {
     background-color: $colorRemember;
   }
 
   a {
-    color: #ffffff;
+    color: $colorWhite;
     text-decoration: underline;
   }
 }

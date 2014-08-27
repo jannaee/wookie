@@ -6,7 +6,7 @@
 
 .featured-spotlight {
   background: $colorGrayDark;
-  color: #ffffff;
+  color: $colorWhite;
   overflow: hidden;
   padding-bottom: $lineHeight*3 - 1;
   margin-top: $lineHeight*2;
@@ -16,10 +16,10 @@
   }
 
   .cta--primary {
-    color: #ffffff;
+    color: $colorWhite;
 
     &:hover {
-      color: #ffffff;
+      color: $colorWhite;
     }
   }
 }

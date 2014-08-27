@@ -22,15 +22,25 @@
   $wideGutterWidth: 3.7% !default;
 
   // Defining colors
-  $colorBlue: #3372df !default;
+  // Jannaee's colors
+  $colorBlue:  #297ea9  !default;
   $colorBlueSecondary: lighten($colorBlue, 30%) !default;
-  $colorGreen: #0f9d58 !default;
-  $colorGreenSecondary: lighten($colorGreen, 30%) !default;
+  $colorBrown:  #2b1100  !default;  
+  $colorBrownSecondary:  #c87137  !default;  
+  $colorGreen:  #0f9d58  !default;
+  $colorGreenSecondary:  #78c557 !default;  
+  $colorPink:  #ff4966  !default;  
+  $colorPinkSecondary:  #ffa68f  !default;  
+  $colorPurple: #7b5294 !default;
+  $colorTeal:  #19b29d  !default;
+  $colorTealSecondary:  #b5ecb8  !default;
+  $colorYellow: #fff954  !default;
+  $colorWhite: #ffffff !default;
+
+  //Original google colors
   $colorRed: #cb4437 !default;
   $colorRedSecondary: lighten($colorRed, 30%) !default;
-  $colorYellow: #f4b400 !default;
   $colorYellowSecondary: lighten($colorYellow, 20%) !default;
-
   $colorRemember: #09829a !default;
   $colorLearning: #da2e75 !default;
 
